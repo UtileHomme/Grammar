@@ -20,3 +20,43 @@ Eg - The girl is fond "of" music
 ** Note **
 Eg- He cheated the employees "glaringly" but they never found out
 - glaringly = in a highly obvious way
+
+<!-- What are the Elements of a Sentence -->
+
+1. Subject
+2. Main Verb (Mandatory)
+3. Direct Object (ask "what"? "when" ?)
+4. Indirect Object (ask for "whom", to "whom") - Noun / Pronoun
+5. Prepositional Object
+6. Subject Complement (Noun / adjective)
+7. Object Complement
+8. Complement
+9. Adverbial
+    a. Manner (how?)
+    b. Place (where?)
+    c. Time (when?)
+    d. Frequency (how often?)
+    e. Reason / purpose (why?)
+
+<!-- Different Types of Verbs -->
+
+1. Transitive Verbs
+    - subject + verb + direct object
+
+Eg -
+    a. He is studying Maths in his room
+        "He" - subject
+        "is studying" - transitive verb
+        "Maths" - direct object
+        "in his room" - Adverb(place)
+
+    b. The player kicked the ball
+        "The player" - subject
+        "kicked" - transitive verb
+        "the ball" - direct object
+
+    c. The quick brown fox jumps over the lazy dog
+        "The quick brown fox" - Noun phrase
+        "jumps" - verb
+        "over" - preposition
+        "the lazy dog" - Adverb (place)
