@@ -60,3 +60,31 @@ Eg -
         "jumps" - verb
         "over" - preposition
         "the lazy dog" - Adverb (place)
+
+<!-- What are Determiners -->
+- put before nouns
+
+Eg - articles (a, an, the)
+    - demonstratives (this, that, these, those)
+    - possessives (may, our, his, her, its)
+    - quantifier (all, both, each, every, much)
+    - "wh" words (whose, what , which)
+
+<!-- Examples to point out differences between transitive and intransitive verbs -->
+
+1.
+He is eating pasta (T)
+- "pasta" (direct object)
+
+He is eating (IT)
+
+2. The pilot flew the plane over the clouds (T)
+- "the plane" (direct object)
+
+The pilot flew away (IT)
+
+3. He raised an alarm (T)
+- "the alarm" (direct object)
+
+The sun rises in the east (IT)
+- "in the east" (adverb)
